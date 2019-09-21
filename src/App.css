@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.cardStyle:hover {
+  transform: scale(1.2, 1.2);
+}

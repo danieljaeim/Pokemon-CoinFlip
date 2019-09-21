@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<App>
+  <Pokedex>
+    <ul>
+      <Pokecard
+        exp={62}
+        name="Charmander"
+        pokeid={4}
+        type="fire"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "orangered",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Charmander
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+          />
+          <p>
+            Type: 
+            fire
+          </p>
+          <p>
+            EXP: 
+            62
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={63}
+        name="Squirtle"
+        pokeid={7}
+        type="water"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "blue",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Squirtle
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+          />
+          <p>
+            Type: 
+            water
+          </p>
+          <p>
+            EXP: 
+            63
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={72}
+        name="Metapod"
+        pokeid={11}
+        type="bug"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "green",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Metapod
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+          />
+          <p>
+            Type: 
+            bug
+          </p>
+          <p>
+            EXP: 
+            72
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={178}
+        name="Butterfree"
+        pokeid={12}
+        type="flying"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "purple",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Butterfree
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+          />
+          <p>
+            Type: 
+            flying
+          </p>
+          <p>
+            EXP: 
+            178
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={112}
+        name="Pikachu"
+        pokeid={25}
+        type="electric"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "yellow",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Pikachu
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+          />
+          <p>
+            Type: 
+            electric
+          </p>
+          <p>
+            EXP: 
+            112
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={95}
+        name="Jigglypuff"
+        pokeid={39}
+        type="normal"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "pink",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Jigglypuff
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png"
+          />
+          <p>
+            Type: 
+            normal
+          </p>
+          <p>
+            EXP: 
+            95
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={225}
+        name="Gengar"
+        pokeid={94}
+        type="poison"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "magenta",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Gengar
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+          />
+          <p>
+            Type: 
+            poison
+          </p>
+          <p>
+            EXP: 
+            225
+          </p>
+        </div>
+      </Pokecard>
+      <Pokecard
+        exp={65}
+        name="Eevee"
+        pokeid={133}
+        type="normal"
+      >
+        <div
+          style={
+            Object {
+              "backgroundColor": "pink",
+              "borderRadius": "5px",
+              "display": "inline-block",
+              "margin": "30px",
+              "padding": "25px",
+            }
+          }
+        >
+          <p>
+            <h3>
+              Eevee
+            </h3>
+          </p>
+          <img
+            alt="this img"
+            src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png"
+          />
+          <p>
+            Type: 
+            normal
+          </p>
+          <p>
+            EXP: 
+            65
+          </p>
+        </div>
+      </Pokecard>
+    </ul>
+  </Pokedex>
+</App>
+`;
